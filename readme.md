@@ -10,7 +10,7 @@ A simple RESTful API for a To-Do list application built using Node.js, Express, 
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Testing the API](#testing-the-api)
+  
 
 ## Introduction
 
