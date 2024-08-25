@@ -69,10 +69,11 @@ Before you begin, ensure you have the following installed on your system:
    To start the application, run:
    ```bash
       npm start
-
+  
   Or, if you prefer using nodemon for development (auto-restarts the server on changes):
-   ```bash
-   npm run dev
+  
+     npm run dev
+
 
 6. **API Endpoints**
    Here are the available API endpoints:
