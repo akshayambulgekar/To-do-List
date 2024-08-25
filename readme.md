@@ -70,7 +70,7 @@ Before you begin, ensure you have the following installed on your system:
    ```bash
       npm start
 
-   Or, if you prefer using nodemon for development (auto-restarts the server on changes):
+  Or, if you prefer using nodemon for development (auto-restarts the server on changes):
    ```bash
    npm run dev
 
