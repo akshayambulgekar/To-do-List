@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/akshayambulgekar/To-do-List.git
    cd todo-list-app
 
 2. **Install Dependencies**
